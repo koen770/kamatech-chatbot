@@ -16,6 +16,7 @@ namespace ConsoleApp
             {
                 var result = game1.Execute("", l);
                 l.Add(result);
+                Console.WriteLine("Welcome To Hell");
             }
         }
     }
